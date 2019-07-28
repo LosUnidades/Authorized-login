@@ -1,4 +1,20 @@
 #普通数据的配置
 #name: dan
 #对象的配置
-
+#person:
+#  name: dan
+# age: 13
+#配置数据、集合(普通字符串)
+#city:
+#  - beijing
+#  - sichuan
+#配置数据、集合(对象数据)
+#student:
+#  - name: dan
+#    age: 18
+#  - name: zhang
+#    age: 12
+#student:[{name: dan,age: 18},{name: li}]
+#map配置
+#map:
+#  key: value
